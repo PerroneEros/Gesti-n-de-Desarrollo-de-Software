@@ -1,4 +1,4 @@
-# Gesti-n-de-Desarrollo-de-Software
+# Gestion-de-Desarrollo-de-Software
 Proyecto de la materia Gestión de Desarrollo de Software
 
 # Integrantes :
